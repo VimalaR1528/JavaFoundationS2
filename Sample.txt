@@ -1,0 +1,2 @@
+Servlet is server side programming.
+JSP is used for presentation logic.
